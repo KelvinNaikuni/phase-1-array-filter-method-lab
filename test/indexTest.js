@@ -50,7 +50,7 @@ describe('index.js', function () {
         {
           name: 'Bobby',
           hometown: 'Pittsburgh' },
-        {
+        {m
           name: 'Sammy',
           hometown: 'New York' } ,
         {
